@@ -13,5 +13,8 @@ UCLASS()
 class MOLY_API AMOlyCharacter : public AMOlyCharacterBace
 {
 	GENERATED_BODY()
+
+public:
+	AMOlyCharacter();
 	
 };
